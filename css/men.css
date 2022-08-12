@@ -1,0 +1,34 @@
+body {
+  background-color: burlywood;
+  background-image: url(/pics/men1.jpg);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-attachment: fixed;
+}
+
+ul li {
+  font-size: 30px;
+  color: black;
+  text-align: center;
+  display: inline;
+  margin: 40px;
+  padding: 20px;
+}
+li a {
+  text-decoration: none;
+}
+.h1 {
+  color: rgb(49, 94, 94);
+  font-size: 100px;
+  margin: 30px;
+}
+.ul {
+  border: 1px solid black;
+  border-radius: 50px 50px;
+  background-color: aliceblue;
+}
+.img {
+  margin: px;
+  padding: 3px;
+}
